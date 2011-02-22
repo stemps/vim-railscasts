@@ -44,7 +44,7 @@ hi link htmlTag              xmlTag
 hi link htmlTagName          xmlTagName
 hi link htmlEndTag           xmlEndTag
 
-hi Normal                    guifg=#E6E1DC guibg=#141414
+hi Normal                    guifg=#E6E1DC guibg=#2b2b2b
 hi Cursor                    guifg=#000000 ctermfg=0     guibg=#FFFFFF ctermbg=15
 hi CursorLine                guibg=#333333 guifg=NONE
 hi CursorCol                 guibg=#333333 guifg=NONE
