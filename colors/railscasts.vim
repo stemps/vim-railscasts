@@ -44,6 +44,9 @@ hi link htmlTag              xmlTag
 hi link htmlTagName          xmlTagName
 hi link htmlEndTag           xmlEndTag
 
+hi link TagListFileName      Type
+hi link TagListTitle        String
+
 hi Normal                    guifg=#E6E1DC guibg=#2b2b2b
 hi Cursor                    guifg=#000000 ctermfg=0     guibg=#FFFFFF ctermbg=15
 hi CursorLine                guibg=#333333 guifg=NONE
@@ -108,7 +111,7 @@ hi Directory                 none
 hi link Directory            Identifier
 
 hi Folded                    guifg=#F6F3E8 guibg=#444444 gui=NONE
-hi Folded                    guibg=#110077 guifg=#aaddee
+"hi Folded                    guibg=#110077 guifg=#aaddee
 hi FoldColumn                none
 hi link FoldColumn           Folded
 
