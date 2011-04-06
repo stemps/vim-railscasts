@@ -47,7 +47,7 @@ hi link htmlEndTag           xmlEndTag
 hi link TagListFileName      Type
 hi link TagListTitle        String
 
-hi Normal                    guifg=#E6E1DC guibg=#2b2b2b
+hi Normal                    guifg=#E6E1DC guibg=#121212
 hi Cursor                    guifg=#000000 ctermfg=0     guibg=#FFFFFF ctermbg=15
 hi CursorLine                guibg=#333333 guifg=NONE
 hi CursorCol                 guibg=#333333 guifg=NONE
